@@ -13,7 +13,6 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "/./"
-publishDir = "./"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Hugo tranquilpeak theme"
