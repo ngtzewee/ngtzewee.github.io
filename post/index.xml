@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/./post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/./2018/04/hello-r-markdown/</link>
+      <pubDate>Thu, 26 Apr 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/./2018/04/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>/./2018/04/hello_world/</link>
+      <pubDate>Mon, 23 Apr 2018 23:57:33 +0800</pubDate>
+      
+      <guid>/./2018/04/hello_world/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -158,6 +178,17 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/./2013/01/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/./1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/./1/01/</guid>
+      <description>title: “First Post” author: “Benjamin Ng” date: 2018-04-26T21:13:14-05:00 categories: [“Blog”] tags: [“Personal”] bui—
+Hello World! The website is up, and now the posting can begin! Over the course of the next few months, I’ll be documenting my journey as I explore and learn about data visualization, spatial analysis, text mining and machine learning (ambitious list, I know).
+ Setting up this Blog For those interested in turning your github page into a similar webpage, I followed the guide provided by Aurora Mareviv here.</description>
     </item>
     
   </channel>
