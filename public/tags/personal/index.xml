@@ -6,16 +6,17 @@
     <description>Recent content in Personal on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 26 Apr 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/./tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>/./1/01/first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/./2018/04/first-post/</link>
+      <pubDate>Thu, 26 Apr 2018 21:13:14 -0500</pubDate>
       
-      <guid>/./1/01/first-post/</guid>
+      <guid>/./2018/04/first-post/</guid>
       <description>Hello World! The website is up, and now the posting can begin! Over the course of the next few months, I’ll be documenting my journey as I explore and learn about data visualization, spatial analysis, text mining and machine learning (ambitious list, I know).
  Setting up this Blog For those interested in turning your github page into a similar webpage, I followed the guide provided by Aurora Mareviv here. She has an updated guide if you’re using project pages on github, but I found that the first guide was more straightforward if you’re using your personal github page.</description>
     </item>
